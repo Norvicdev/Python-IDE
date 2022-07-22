@@ -188,7 +188,7 @@
 				TargetAttributes = {
 					4D832C141C16864D00913CE7 = {
 						CreatedOnToolsVersion = 7.2;
-						DevelopmentTeam = 85N3S3DG8M;
+						DevelopmentTeam = 8U6YK32924;
 					};
 				};
 			};
@@ -378,11 +378,12 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 6;
+				DEVELOPMENT_TEAM = 8U6YK32924;
 				INFOPLIST_FILE = "Python IDE/Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MARKETING_VERSION = 0.0.1;
-				PRODUCT_BUNDLE_IDENTIFIER = "ca.justinbush.Python-IDE";
+				PRODUCT_BUNDLE_IDENTIFIER = "vicsergeev.Python-IDE";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -393,11 +394,12 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 6;
+				DEVELOPMENT_TEAM = 8U6YK32924;
 				INFOPLIST_FILE = "Python IDE/Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MARKETING_VERSION = 0.0.1;
-				PRODUCT_BUNDLE_IDENTIFIER = "ca.justinbush.Python-IDE";
+				PRODUCT_BUNDLE_IDENTIFIER = "vicsergeev.Python-IDE";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
